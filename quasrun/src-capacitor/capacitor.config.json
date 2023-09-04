@@ -1,0 +1,8 @@
+{
+  "appId": "eimihar.quasar.run",
+  "appName": "Quasrun",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
